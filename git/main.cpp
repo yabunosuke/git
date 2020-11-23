@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-	cout << "‚Í‚ë[‚í[‚é‚Ç‚Å‚·" << endl;
+	cout << "Hello world for Git !" << endl;
 	return 0;
 }
